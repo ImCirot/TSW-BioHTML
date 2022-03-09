@@ -1,5 +1,5 @@
 # TSW-BioHTML
-A basic HTML/CSS/JS page for TSW course assignment. 
-Contains a short bio with some funfacts.
-Probably expanded as the course progresses.
+A basic HTML/CSS/JS page for TSW course assignment.<br>
+Contains a short bio with some funfacts.<br>
+Probably expanded as the course progresses.<br>
 😃 😃
