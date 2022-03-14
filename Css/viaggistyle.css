@@ -4,4 +4,6 @@ body {
   font-family: sans-serif;
 }
 
-a:hover{opacity: 0.4};
+a:hover{
+  opacity: 0.4;
+};
