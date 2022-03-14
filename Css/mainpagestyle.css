@@ -1,0 +1,11 @@
+body {
+  padding: 50px;
+  background-color: #82abed;
+  font-family: sans-serif;
+}
+
+#fotoPersonale {
+  position: fixed;
+  left: 650px;
+  top: 80px;
+}
