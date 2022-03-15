@@ -4,13 +4,6 @@ body {
   font-family: sans-serif;
 }
 
-#fotoPersonale {
-  position: fixed;
-  left: 750px;
-  top: 80px;
-  box-shadow: 4px 5px 10px black;
-}
-
 a:hover{
   opacity: 0.4;
 };
