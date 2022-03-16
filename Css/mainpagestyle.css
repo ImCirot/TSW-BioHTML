@@ -6,6 +6,7 @@ body {
 
 #fotoPersonale {
   position: fixed;
+  cursor: pointer;
   left: 750px;
   top: 80px;
   box-shadow: 4px 5px 10px black;
@@ -13,4 +14,11 @@ body {
 
 a:hover{
   opacity: 0.4;
-};
+}
+
+#fotoPersonale:hover{
+  position: fixed;
+  left: 740px;
+  height: 320px;
+  width: 250px;
+}
