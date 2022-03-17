@@ -12,13 +12,48 @@ body {
   box-shadow: 4px 5px 10px black;
 }
 
-a:hover{
-  opacity: 0.4;
-}
-
 #fotoPersonale:hover{
   position: fixed;
   left: 740px;
   height: 320px;
   width: 250px;
+}
+
+.menu {
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  left: 0px;
+  width: 100%;
+  list-style: none;
+  overflow: hidden;
+  background-color: #5897fc;
+  box-shadow: 0px 5px 10px #1f70f0;
+}
+
+.item {
+  float: left;
+  display: block;
+  color: blue;
+  text-align: center;
+  position: relative;
+  left: 500px;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.section {
+  display: block;
+  padding: 8px 16px;
+  color: white;
+  text-decoration: none;
+}
+
+.item:hover{
+  background-color: #357ef2;
+}
+
+#active {
+  font-weight: bold;
 }
